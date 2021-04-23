@@ -7,7 +7,9 @@ publish_to: none
 
 dependencies:
   graphql: # 5.0.0-nullsafety.3
-    path: ../graphql
+    git:
+      url: https://github.com/lohitbura/graphql-flutter
+      path: packages/graphql
   gql_exec: ^0.3.0-nullsafety.1
   flutter:
     sdk: flutter
