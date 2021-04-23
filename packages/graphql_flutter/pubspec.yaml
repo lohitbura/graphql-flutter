@@ -9,6 +9,7 @@ dependencies:
   graphql: # 5.0.0-nullsafety.3
     git:
       url: https://github.com/lohitbura/graphql-flutter
+      ref: nullsafety
       path: packages/graphql
   gql_exec: ^0.3.0-nullsafety.1
   flutter:
