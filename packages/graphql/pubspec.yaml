@@ -12,7 +12,7 @@ dependencies:
     git:
       url: https://github.com/lohitbura/gql
       ref: nullsafety
-      path: gql
+      path: gql_http_link
   gql_transform_link: ^0.2.0-nullsafety.1
   gql_error_link: ^0.2.0-nullsafety.1
   gql_dedupe_link: ^2.0.0-nullsafety.1
